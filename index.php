@@ -5,7 +5,7 @@ this is my first task kk
 </head>
 
 <body bgcolor="orange">
-<img scr="http://terabuc.s3.ap-south-1.amazonaws.com/flower.jpg"   height="100px"  weight="100px>"  
+<!-- <img scr="http://terabuc.s3.ap-south-1.amazonaws.com/flower.jpg"   height="100px"  weight="100px>"   -->
 <a href="#here">go directly to the link</a>
 <h1> <b> <i><marquee bgcolor="green">RESISTRATION FORM</i></b></h1> </marquee>
 <form> 
